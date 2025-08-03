@@ -1,3 +1,4 @@
 ss://aes-256-gcm:jZB4aU7f5B@185.241.150.234:50101#Germany
 ss://aes-256-gcm:4RVbQBP6UJ@45.153.160.51:59101#Netherlands
 ss://aes-256-gcm:Uj7uBvwWBM@46.3.209.103:50101#America
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.208:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=bitget1.asdasd.click&type=ws#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%B1%F0%9F%87%B9%20LT-45.81.58.208%3A8880
